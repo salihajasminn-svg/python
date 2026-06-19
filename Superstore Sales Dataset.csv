@@ -1,0 +1,221 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Segment,Region,State,City,Category,Sub_Category,Sales,Quantity,Discount,Profit
+ORD-2024000,2024-03-21,2024-03-27,Standard Class,Corporate,Central,Illinois,Chicago,Technology,Phones,605.7,7,0.15,42.54
+ORD-2024001,2026-05-25,2026-06-01,Second Class,Consumer,West,Oregon,Portland,Technology,Accessories,240.34,4,0.4,-12.64
+ORD-2024002,2026-03-07,2026-03-09,Standard Class,Corporate,South,Tennessee,Nashville,Office Supplies,Binders,162.46,7,0.0,43.48
+ORD-2024003,2026-05-20,2026-05-24,Standard Class,Consumer,West,Washington,Seattle,Furniture,Chairs,2116.16,9,0.3,-68.8
+ORD-2024004,2024-03-09,2024-03-13,Second Class,Corporate,South,Florida,Miami,Furniture,Bookcases,701.21,5,0.2,83.77
+ORD-2024005,2025-08-23,2025-08-25,Standard Class,Consumer,West,Nevada,Las Vegas,Technology,Copiers,12473.44,9,0.1,1992.19
+ORD-2024006,2025-12-22,2025-12-24,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Storage,805.39,7,0.2,87.7
+ORD-2024007,2025-02-15,2025-02-19,Standard Class,Corporate,Central,Michigan,Detroit,Office Supplies,Storage,677.88,6,0.2,140.25
+ORD-2024008,2025-06-24,2025-06-26,Standard Class,Consumer,West,Washington,Seattle,Furniture,Tables,2459.9,4,0.0,261.84
+ORD-2024009,2024-07-28,2024-08-01,Standard Class,Consumer,Central,Texas,Houston,Technology,Machines,6220.52,4,0.1,787.16
+ORD-2024010,2024-04-05,2024-04-07,Standard Class,Consumer,South,North Carolina,Charlotte,Office Supplies,Labels,8.51,2,0.5,0.13
+ORD-2024011,2024-05-16,2024-05-19,Second Class,Home Office,West,Oregon,Portland,Office Supplies,Art,21.32,4,0.0,4.27
+ORD-2024012,2025-02-14,2025-02-17,Standard Class,Home Office,South,Tennessee,Nashville,Technology,Accessories,357.26,7,0.3,-37.87
+ORD-2024013,2024-09-01,2024-09-07,Standard Class,Corporate,East,New Jersey,Newark,Office Supplies,Paper,18.2,5,0.4,0.83
+ORD-2024014,2024-10-03,2024-10-08,Standard Class,Consumer,East,New Jersey,Newark,Office Supplies,Art,12.46,1,0.3,2.6
+ORD-2024015,2024-02-07,2024-02-13,Standard Class,Corporate,East,New York,New York City,Furniture,Bookcases,3373.56,9,0.2,-169.13
+ORD-2024016,2024-05-15,2024-05-22,Standard Class,Corporate,West,Washington,Seattle,Technology,Phones,254.13,1,0.2,16.05
+ORD-2024017,2025-03-16,2025-03-22,Standard Class,Home Office,West,Nevada,Las Vegas,Office Supplies,Paper,36.28,3,0.0,13.25
+ORD-2024018,2024-09-28,2024-10-03,First Class,Consumer,West,California,Los Angeles,Technology,Phones,866.63,3,0.3,-16.97
+ORD-2024019,2025-10-14,2025-10-21,Same Day,Consumer,East,New York,New York City,Office Supplies,Binders,43.46,3,0.4,4.65
+ORD-2024020,2025-07-23,2025-07-26,First Class,Home Office,Central,Michigan,Detroit,Office Supplies,Fasteners,37.97,9,0.15,3.49
+ORD-2024021,2024-02-10,2024-02-12,Standard Class,Corporate,Central,Ohio,Columbus,Technology,Copiers,8821.56,5,0.1,948.76
+ORD-2024022,2026-03-06,2026-03-08,Standard Class,Consumer,Central,Michigan,Detroit,Office Supplies,Binders,150.62,9,0.0,62.94
+ORD-2024023,2024-04-20,2024-04-24,Standard Class,Consumer,Central,Michigan,Detroit,Furniture,Furnishings,278.05,9,0.3,-8.78
+ORD-2024024,2026-04-18,2026-04-20,Standard Class,Corporate,East,New York,New York City,Furniture,Chairs,843.32,7,0.1,44.31
+ORD-2024025,2025-03-30,2025-04-06,Standard Class,Consumer,South,Florida,Miami,Technology,Machines,2005.73,4,0.0,379.25
+ORD-2024026,2024-04-28,2024-05-02,Standard Class,Corporate,Central,Michigan,Detroit,Technology,Machines,5934.0,3,0.15,471.16
+ORD-2024027,2024-01-23,2024-01-29,First Class,Consumer,East,New Jersey,Newark,Technology,Accessories,93.45,2,0.5,-16.17
+ORD-2024028,2026-01-29,2026-01-31,Second Class,Home Office,Central,Texas,Houston,Technology,Accessories,306.5,8,0.1,1.53
+ORD-2024029,2025-04-21,2025-04-24,Standard Class,Consumer,West,California,Los Angeles,Office Supplies,Storage,661.87,9,0.4,-51.2
+ORD-2024030,2026-06-11,2026-06-17,Standard Class,Consumer,South,Tennessee,Nashville,Furniture,Furnishings,67.85,1,0.1,17.53
+ORD-2024031,2024-05-11,2024-05-18,Standard Class,Consumer,South,North Carolina,Charlotte,Office Supplies,Binders,58.78,5,0.0,15.34
+ORD-2024032,2026-01-15,2026-01-17,Standard Class,Home Office,West,Oregon,Portland,Technology,Copiers,2635.14,4,0.5,-395.25
+ORD-2024033,2025-03-28,2025-04-01,Standard Class,Consumer,East,Massachusetts,Boston,Office Supplies,Paper,122.62,9,0.1,19.49
+ORD-2024034,2026-03-12,2026-03-14,First Class,Home Office,East,Massachusetts,Boston,Furniture,Tables,958.42,9,0.4,-22.66
+ORD-2024035,2026-01-26,2026-01-31,Standard Class,Home Office,South,North Carolina,Charlotte,Technology,Machines,3464.4,8,0.15,250.15
+ORD-2024036,2025-12-04,2025-12-08,Standard Class,Consumer,Central,Michigan,Detroit,Office Supplies,Binders,60.48,2,0.0,25.29
+ORD-2024037,2025-01-08,2025-01-14,Standard Class,Consumer,West,Washington,Seattle,Technology,Accessories,206.25,8,0.5,-21.32
+ORD-2024038,2025-02-17,2025-02-22,Standard Class,Corporate,South,Tennessee,Nashville,Office Supplies,Paper,79.81,8,0.3,3.53
+ORD-2024039,2025-07-21,2025-07-26,Same Day,Consumer,Central,Michigan,Detroit,Furniture,Furnishings,465.49,6,0.0,151.59
+ORD-2024040,2025-10-10,2025-10-12,Second Class,Consumer,South,Tennessee,Nashville,Technology,Accessories,358.7,6,0.5,-82.89
+ORD-2024041,2025-12-14,2025-12-16,First Class,Consumer,East,New Jersey,Newark,Furniture,Bookcases,253.82,1,0.2,-31.3
+ORD-2024042,2026-04-05,2026-04-11,Standard Class,Corporate,Central,Illinois,Chicago,Office Supplies,Binders,61.9,9,0.3,13.5
+ORD-2024043,2024-04-15,2024-04-22,Standard Class,Consumer,South,Florida,Miami,Office Supplies,Labels,76.6,8,0.3,9.32
+ORD-2024044,2024-10-07,2024-10-09,First Class,Home Office,South,Florida,Miami,Technology,Machines,4326.54,4,0.0,391.61
+ORD-2024045,2025-10-16,2025-10-21,Second Class,Home Office,West,California,Los Angeles,Technology,Accessories,441.95,8,0.5,-46.7
+ORD-2024046,2024-04-20,2024-04-22,Standard Class,Consumer,West,Oregon,Portland,Technology,Machines,995.95,1,0.2,-69.85
+ORD-2024047,2026-01-10,2026-01-12,First Class,Consumer,West,Oregon,Portland,Technology,Copiers,1307.77,4,0.5,-190.48
+ORD-2024048,2024-02-08,2024-02-10,Standard Class,Consumer,Central,Ohio,Columbus,Office Supplies,Binders,39.14,6,0.2,7.92
+ORD-2024049,2026-03-15,2026-03-22,Second Class,Consumer,South,Tennessee,Nashville,Technology,Phones,3698.53,9,0.0,520.0
+ORD-2024050,2026-05-29,2026-06-04,First Class,Corporate,South,Florida,Miami,Technology,Phones,245.27,1,0.5,-32.91
+ORD-2024051,2026-04-12,2026-04-16,Standard Class,Home Office,East,Pennsylvania,Philadelphia,Furniture,Chairs,950.71,5,0.3,7.01
+ORD-2024052,2025-12-30,2026-01-05,Standard Class,Corporate,East,New York,New York City,Office Supplies,Binders,288.47,7,0.3,37.91
+ORD-2024053,2025-07-02,2025-07-05,First Class,Consumer,South,Georgia,Atlanta,Furniture,Bookcases,829.66,7,0.0,78.34
+ORD-2024054,2024-08-16,2024-08-21,Same Day,Corporate,South,North Carolina,Charlotte,Furniture,Chairs,1607.72,9,0.1,330.19
+ORD-2024055,2025-06-02,2025-06-04,Standard Class,Consumer,East,Pennsylvania,Philadelphia,Office Supplies,Art,40.04,2,0.0,11.43
+ORD-2024056,2025-07-05,2025-07-09,Standard Class,Consumer,South,North Carolina,Charlotte,Office Supplies,Fasteners,22.46,4,0.4,-2.83
+ORD-2024057,2024-07-14,2024-07-17,Second Class,Corporate,West,Washington,Seattle,Office Supplies,Storage,350.26,4,0.2,44.63
+ORD-2024058,2025-07-07,2025-07-10,First Class,Corporate,East,Massachusetts,Boston,Office Supplies,Paper,55.75,4,0.15,11.59
+ORD-2024059,2024-11-19,2024-11-21,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Art,87.47,3,0.1,13.28
+ORD-2024060,2024-02-20,2024-02-22,Standard Class,Corporate,South,Tennessee,Nashville,Furniture,Chairs,536.23,3,0.15,88.39
+ORD-2024061,2024-06-04,2024-06-08,Same Day,Consumer,South,North Carolina,Charlotte,Office Supplies,Fasteners,11.44,3,0.2,0.46
+ORD-2024062,2024-03-09,2024-03-16,Standard Class,Consumer,West,Nevada,Las Vegas,Office Supplies,Labels,54.73,7,0.3,5.91
+ORD-2024063,2024-12-13,2024-12-19,Same Day,Corporate,Central,Illinois,Chicago,Furniture,Chairs,1759.81,9,0.5,-347.76
+ORD-2024064,2025-08-06,2025-08-08,Standard Class,Consumer,Central,Illinois,Chicago,Office Supplies,Paper,19.37,1,0.0,7.85
+ORD-2024065,2025-01-24,2025-01-27,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Binders,33.4,2,0.15,9.41
+ORD-2024066,2024-08-29,2024-09-01,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Art,115.36,6,0.3,13.41
+ORD-2024067,2025-11-15,2025-11-22,Second Class,Home Office,West,Nevada,Las Vegas,Office Supplies,Fasteners,66.51,7,0.4,2.2
+ORD-2024068,2024-04-17,2024-04-24,Standard Class,Corporate,West,Washington,Seattle,Office Supplies,Fasteners,19.45,5,0.0,5.97
+ORD-2024069,2024-12-23,2024-12-25,Standard Class,Corporate,West,Washington,Seattle,Furniture,Chairs,2670.48,7,0.1,360.62
+ORD-2024070,2025-01-07,2025-01-10,Second Class,Home Office,East,New Jersey,Newark,Office Supplies,Labels,54.35,9,0.4,1.08
+ORD-2024071,2025-03-04,2025-03-07,Second Class,Corporate,South,North Carolina,Charlotte,Technology,Copiers,2327.97,5,0.3,-288.97
+ORD-2024072,2025-01-08,2025-01-15,First Class,Consumer,East,Massachusetts,Boston,Office Supplies,Labels,65.8,7,0.2,1.83
+ORD-2024073,2024-11-06,2024-11-13,Second Class,Consumer,West,Nevada,Las Vegas,Office Supplies,Fasteners,52.93,3,0.1,9.2
+ORD-2024074,2025-04-29,2025-05-05,Second Class,Corporate,West,Nevada,Las Vegas,Technology,Phones,127.49,1,0.5,-29.67
+ORD-2024075,2024-02-13,2024-02-18,First Class,Corporate,South,Florida,Miami,Technology,Copiers,11451.16,4,0.0,1155.21
+ORD-2024076,2025-02-02,2025-02-04,First Class,Consumer,South,North Carolina,Charlotte,Technology,Machines,898.49,1,0.2,124.9
+ORD-2024077,2026-03-14,2026-03-19,Standard Class,Home Office,West,Nevada,Las Vegas,Office Supplies,Fasteners,56.82,5,0.1,11.2
+ORD-2024078,2025-09-01,2025-09-03,Second Class,Consumer,Central,Illinois,Chicago,Technology,Accessories,958.87,8,0.2,2.89
+ORD-2024079,2024-09-22,2024-09-25,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Labels,17.75,5,0.5,2.27
+ORD-2024080,2024-03-14,2024-03-16,First Class,Home Office,West,California,Los Angeles,Furniture,Tables,1464.1,5,0.4,-125.77
+ORD-2024081,2024-11-03,2024-11-08,Second Class,Consumer,Central,Ohio,Columbus,Technology,Accessories,231.73,6,0.1,29.79
+ORD-2024082,2024-07-12,2024-07-17,First Class,Corporate,Central,Michigan,Detroit,Office Supplies,Fasteners,23.41,3,0.0,11.02
+ORD-2024083,2024-05-19,2024-05-24,Second Class,Consumer,South,North Carolina,Charlotte,Office Supplies,Storage,859.8,6,0.2,107.62
+ORD-2024084,2024-10-13,2024-10-15,Standard Class,Consumer,West,Oregon,Portland,Technology,Copiers,8427.56,5,0.0,-254.03
+ORD-2024085,2024-02-02,2024-02-04,Standard Class,Consumer,East,New Jersey,Newark,Office Supplies,Binders,233.4,8,0.1,46.77
+ORD-2024086,2025-11-28,2025-11-30,First Class,Consumer,South,North Carolina,Charlotte,Furniture,Furnishings,160.06,3,0.0,28.64
+ORD-2024087,2025-01-08,2025-01-10,Standard Class,Corporate,East,New York,New York City,Office Supplies,Art,52.77,4,0.1,10.13
+ORD-2024088,2024-07-24,2024-07-27,Standard Class,Consumer,Central,Texas,Houston,Office Supplies,Fasteners,29.93,7,0.3,4.83
+ORD-2024089,2024-10-23,2024-10-30,Standard Class,Consumer,Central,Texas,Houston,Furniture,Chairs,69.88,1,0.5,-7.5
+ORD-2024090,2024-05-17,2024-05-19,Second Class,Home Office,Central,Michigan,Detroit,Office Supplies,Binders,175.88,6,0.2,29.53
+ORD-2024091,2026-01-31,2026-02-04,Same Day,Corporate,East,Massachusetts,Boston,Technology,Copiers,1670.46,3,0.5,-386.22
+ORD-2024092,2024-03-12,2024-03-16,Standard Class,Consumer,Central,Ohio,Columbus,Office Supplies,Art,178.76,8,0.1,48.41
+ORD-2024093,2024-07-13,2024-07-20,Standard Class,Corporate,East,New Jersey,Newark,Furniture,Tables,1036.72,6,0.2,201.69
+ORD-2024094,2024-04-21,2024-04-28,Standard Class,Home Office,East,New Jersey,Newark,Furniture,Furnishings,172.48,2,0.0,31.88
+ORD-2024095,2024-06-04,2024-06-11,Second Class,Consumer,East,New Jersey,Newark,Office Supplies,Fasteners,15.42,6,0.4,0.67
+ORD-2024096,2024-06-12,2024-06-15,Standard Class,Corporate,Central,Texas,Houston,Office Supplies,Binders,61.24,3,0.5,-1.83
+ORD-2024097,2026-01-20,2026-01-27,Second Class,Corporate,South,Tennessee,Nashville,Office Supplies,Paper,66.29,5,0.1,16.6
+ORD-2024098,2024-08-28,2024-09-03,Standard Class,Consumer,Central,Ohio,Columbus,Office Supplies,Fasteners,11.12,5,0.0,3.34
+ORD-2024099,2025-12-15,2025-12-21,First Class,Consumer,South,North Carolina,Charlotte,Technology,Accessories,61.82,4,0.5,-11.65
+ORD-2024100,2026-06-01,2026-06-08,Second Class,Corporate,East,New York,New York City,Office Supplies,Fasteners,99.74,7,0.2,15.02
+ORD-2024101,2024-12-06,2024-12-11,Standard Class,Consumer,South,Tennessee,Nashville,Furniture,Bookcases,1930.61,7,0.4,-253.97
+ORD-2024102,2025-01-21,2025-01-27,Second Class,Consumer,West,California,Los Angeles,Technology,Copiers,5203.6,4,0.5,-725.98
+ORD-2024103,2026-03-07,2026-03-12,Standard Class,Consumer,Central,Illinois,Chicago,Office Supplies,Storage,719.69,5,0.15,189.05
+ORD-2024104,2025-11-20,2025-11-22,First Class,Corporate,West,California,Los Angeles,Technology,Phones,1840.62,4,0.2,-157.16
+ORD-2024105,2024-08-06,2024-08-10,Standard Class,Consumer,West,Washington,Seattle,Furniture,Chairs,236.24,1,0.15,20.38
+ORD-2024106,2024-03-21,2024-03-28,First Class,Home Office,East,New Jersey,Newark,Office Supplies,Fasteners,6.54,1,0.0,1.78
+ORD-2024107,2024-09-21,2024-09-23,Standard Class,Corporate,South,North Carolina,Charlotte,Technology,Copiers,2119.32,4,0.0,528.97
+ORD-2024108,2026-01-02,2026-01-09,Second Class,Corporate,Central,Michigan,Detroit,Office Supplies,Art,20.92,2,0.1,6.36
+ORD-2024109,2024-05-23,2024-05-29,Standard Class,Home Office,West,Nevada,Las Vegas,Office Supplies,Storage,98.28,1,0.3,22.32
+ORD-2024110,2024-07-27,2024-08-03,Second Class,Consumer,Central,Texas,Houston,Office Supplies,Paper,39.22,8,0.2,8.02
+ORD-2024111,2025-01-05,2025-01-07,Same Day,Consumer,South,North Carolina,Charlotte,Office Supplies,Fasteners,80.89,7,0.0,10.48
+ORD-2024112,2024-03-07,2024-03-14,Standard Class,Consumer,East,Massachusetts,Boston,Office Supplies,Paper,63.83,5,0.1,12.86
+ORD-2024113,2025-04-26,2025-04-29,Standard Class,Consumer,South,Florida,Miami,Technology,Accessories,105.28,4,0.2,-6.53
+ORD-2024114,2024-12-06,2024-12-08,Same Day,Consumer,East,Massachusetts,Boston,Office Supplies,Fasteners,31.11,6,0.5,-1.51
+ORD-2024115,2024-12-25,2024-12-27,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Labels,15.95,8,0.5,-1.8
+ORD-2024116,2024-02-21,2024-02-27,Standard Class,Corporate,Central,Michigan,Detroit,Technology,Machines,5499.96,8,0.0,383.97
+ORD-2024117,2026-04-08,2026-04-13,Standard Class,Corporate,South,Georgia,Atlanta,Furniture,Tables,3086.34,8,0.0,485.72
+ORD-2024118,2024-05-17,2024-05-24,Standard Class,Home Office,Central,Illinois,Chicago,Technology,Machines,6871.55,5,0.2,450.12
+ORD-2024119,2025-06-21,2025-06-26,Same Day,Corporate,East,New York,New York City,Technology,Machines,2369.93,9,0.1,276.06
+ORD-2024120,2025-02-10,2025-02-15,Second Class,Corporate,South,North Carolina,Charlotte,Office Supplies,Storage,475.31,9,0.3,43.36
+ORD-2024121,2025-10-24,2025-10-29,Standard Class,Consumer,Central,Michigan,Detroit,Office Supplies,Fasteners,49.13,4,0.1,9.18
+ORD-2024122,2026-01-12,2026-01-14,First Class,Corporate,West,Oregon,Portland,Office Supplies,Labels,8.13,6,0.4,1.26
+ORD-2024123,2024-10-19,2024-10-25,First Class,Corporate,East,Massachusetts,Boston,Furniture,Bookcases,1368.95,7,0.0,314.28
+ORD-2024124,2025-10-27,2025-10-30,Same Day,Consumer,South,North Carolina,Charlotte,Technology,Copiers,14188.82,9,0.3,-430.92
+ORD-2024125,2024-08-16,2024-08-21,Same Day,Consumer,West,Washington,Seattle,Furniture,Bookcases,1041.71,7,0.4,19.68
+ORD-2024126,2026-01-30,2026-02-06,First Class,Home Office,West,Washington,Seattle,Office Supplies,Labels,35.77,5,0.3,1.12
+ORD-2024127,2024-10-26,2024-10-29,Standard Class,Consumer,South,Tennessee,Nashville,Technology,Copiers,5768.56,3,0.3,955.33
+ORD-2024128,2025-06-27,2025-07-02,Standard Class,Home Office,Central,Illinois,Chicago,Office Supplies,Storage,446.29,6,0.1,81.89
+ORD-2024129,2024-07-15,2024-07-19,Standard Class,Consumer,East,New York,New York City,Technology,Accessories,382.45,3,0.0,51.34
+ORD-2024130,2025-02-08,2025-02-15,Standard Class,Consumer,West,California,Los Angeles,Furniture,Chairs,751.39,4,0.4,41.19
+ORD-2024131,2026-04-16,2026-04-21,Standard Class,Consumer,South,Florida,Miami,Technology,Accessories,514.42,5,0.0,13.64
+ORD-2024132,2025-03-30,2025-04-04,Second Class,Consumer,East,New Jersey,Newark,Technology,Copiers,20847.21,6,0.0,3015.21
+ORD-2024133,2026-06-15,2026-06-17,First Class,Consumer,South,Georgia,Atlanta,Office Supplies,Paper,23.54,2,0.0,7.57
+ORD-2024134,2025-09-03,2025-09-09,Standard Class,Home Office,South,Tennessee,Nashville,Office Supplies,Storage,332.53,3,0.2,22.55
+ORD-2024135,2025-12-19,2025-12-24,Standard Class,Consumer,South,Tennessee,Nashville,Furniture,Chairs,846.55,3,0.0,182.88
+ORD-2024136,2026-02-02,2026-02-08,Standard Class,Corporate,East,New York,New York City,Office Supplies,Labels,33.47,8,0.0,3.76
+ORD-2024137,2024-05-11,2024-05-15,First Class,Consumer,South,Florida,Miami,Office Supplies,Binders,270.33,6,0.0,76.5
+ORD-2024138,2025-10-02,2025-10-06,Standard Class,Consumer,West,Washington,Seattle,Furniture,Bookcases,395.63,2,0.5,-32.5
+ORD-2024139,2024-04-16,2024-04-18,First Class,Consumer,South,Florida,Miami,Technology,Accessories,210.31,9,0.2,18.05
+ORD-2024140,2026-05-04,2026-05-11,Second Class,Corporate,South,Tennessee,Nashville,Furniture,Bookcases,355.55,2,0.5,-85.54
+ORD-2024141,2024-09-16,2024-09-20,Standard Class,Consumer,South,Georgia,Atlanta,Furniture,Bookcases,725.56,9,0.2,-67.22
+ORD-2024142,2024-08-19,2024-08-25,Second Class,Corporate,East,Massachusetts,Boston,Office Supplies,Binders,73.72,4,0.0,12.85
+ORD-2024143,2025-04-13,2025-04-20,Standard Class,Home Office,East,Pennsylvania,Philadelphia,Furniture,Chairs,2307.34,7,0.2,251.59
+ORD-2024144,2026-01-14,2026-01-18,Standard Class,Consumer,South,Tennessee,Nashville,Furniture,Tables,781.57,2,0.15,12.41
+ORD-2024145,2024-06-24,2024-06-28,Standard Class,Consumer,East,New York,New York City,Furniture,Tables,713.24,6,0.4,-81.26
+ORD-2024146,2025-04-16,2025-04-20,Standard Class,Consumer,West,Washington,Seattle,Office Supplies,Storage,323.16,2,0.0,21.93
+ORD-2024147,2026-04-13,2026-04-17,Standard Class,Home Office,Central,Illinois,Chicago,Technology,Phones,278.91,1,0.4,-15.93
+ORD-2024148,2024-07-07,2024-07-11,Standard Class,Consumer,East,Pennsylvania,Philadelphia,Technology,Phones,1480.22,6,0.5,-354.99
+ORD-2024149,2024-06-01,2024-06-04,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Storage,557.42,5,0.0,181.52
+ORD-2024150,2025-12-17,2025-12-24,Standard Class,Home Office,East,New Jersey,Newark,Office Supplies,Labels,21.31,4,0.3,1.43
+ORD-2024151,2025-07-21,2025-07-27,Standard Class,Consumer,West,Washington,Seattle,Office Supplies,Storage,218.88,3,0.2,22.32
+ORD-2024152,2024-03-04,2024-03-08,Standard Class,Corporate,Central,Texas,Houston,Furniture,Bookcases,1022.37,7,0.4,-97.92
+ORD-2024153,2024-07-11,2024-07-16,First Class,Consumer,South,Tennessee,Nashville,Office Supplies,Fasteners,126.37,9,0.0,50.04
+ORD-2024154,2026-04-06,2026-04-11,Standard Class,Home Office,South,Florida,Miami,Furniture,Furnishings,503.25,7,0.0,138.64
+ORD-2024155,2024-01-24,2024-01-27,Standard Class,Corporate,West,Washington,Seattle,Technology,Phones,1113.09,8,0.4,78.23
+ORD-2024156,2025-08-25,2025-08-27,Second Class,Consumer,West,Nevada,Las Vegas,Office Supplies,Paper,121.02,5,0.0,27.48
+ORD-2024157,2026-05-14,2026-05-21,Second Class,Home Office,South,North Carolina,Charlotte,Furniture,Tables,2509.02,5,0.15,175.41
+ORD-2024158,2026-03-27,2026-03-31,First Class,Consumer,South,Georgia,Atlanta,Office Supplies,Binders,96.6,2,0.0,30.17
+ORD-2024159,2026-01-21,2026-01-23,Second Class,Consumer,East,Massachusetts,Boston,Office Supplies,Art,169.35,6,0.0,39.82
+ORD-2024160,2024-05-02,2024-05-04,Same Day,Consumer,Central,Illinois,Chicago,Office Supplies,Fasteners,7.22,2,0.2,0.07
+ORD-2024161,2024-06-18,2024-06-21,Standard Class,Corporate,West,California,Los Angeles,Technology,Copiers,2680.09,6,0.2,661.61
+ORD-2024162,2024-04-29,2024-05-03,First Class,Consumer,West,California,Los Angeles,Office Supplies,Storage,1246.94,9,0.2,126.46
+ORD-2024163,2024-02-06,2024-02-10,Standard Class,Consumer,East,Pennsylvania,Philadelphia,Technology,Copiers,2028.04,3,0.0,614.57
+ORD-2024164,2024-03-03,2024-03-10,Standard Class,Consumer,South,North Carolina,Charlotte,Office Supplies,Labels,14.1,5,0.0,4.92
+ORD-2024165,2026-05-18,2026-05-21,Same Day,Corporate,South,Florida,Miami,Technology,Phones,1317.94,5,0.4,-31.2
+ORD-2024166,2025-07-15,2025-07-17,Standard Class,Consumer,South,Tennessee,Nashville,Office Supplies,Storage,816.61,5,0.0,308.75
+ORD-2024167,2026-05-21,2026-05-28,Same Day,Consumer,West,Washington,Seattle,Office Supplies,Storage,208.66,7,0.0,64.04
+ORD-2024168,2026-01-19,2026-01-24,Same Day,Home Office,East,New York,New York City,Furniture,Furnishings,140.8,2,0.4,-10.5
+ORD-2024169,2024-07-15,2024-07-17,Standard Class,Home Office,East,New Jersey,Newark,Furniture,Chairs,225.6,2,0.0,53.15
+ORD-2024170,2025-08-15,2025-08-20,Standard Class,Consumer,South,Florida,Miami,Technology,Copiers,14713.14,6,0.2,2051.49
+ORD-2024171,2026-05-01,2026-05-05,Second Class,Consumer,West,Oregon,Portland,Office Supplies,Fasteners,26.99,2,0.15,5.97
+ORD-2024172,2024-06-05,2024-06-11,Standard Class,Consumer,East,Pennsylvania,Philadelphia,Office Supplies,Labels,23.49,7,0.2,2.01
+ORD-2024173,2026-04-20,2026-04-25,Standard Class,Consumer,Central,Texas,Houston,Office Supplies,Art,33.83,1,0.15,9.46
+ORD-2024174,2025-10-20,2025-10-25,Standard Class,Consumer,East,New York,New York City,Office Supplies,Art,39.29,1,0.0,10.04
+ORD-2024175,2025-02-24,2025-03-02,Standard Class,Corporate,South,North Carolina,Charlotte,Technology,Machines,4739.16,5,0.2,1014.02
+ORD-2024176,2025-01-25,2025-01-30,Standard Class,Corporate,South,North Carolina,Charlotte,Technology,Machines,3768.6,4,0.2,125.19
+ORD-2024177,2025-12-29,2026-01-03,Standard Class,Home Office,East,New Jersey,Newark,Furniture,Bookcases,522.9,4,0.2,-63.18
+ORD-2024178,2025-05-20,2025-05-22,Second Class,Corporate,East,Massachusetts,Boston,Furniture,Tables,520.15,2,0.1,67.19
+ORD-2024179,2025-04-19,2025-04-26,Second Class,Consumer,East,Massachusetts,Boston,Office Supplies,Storage,141.57,4,0.1,24.17
+ORD-2024180,2026-01-13,2026-01-19,Standard Class,Corporate,East,New York,New York City,Office Supplies,Paper,153.63,8,0.0,28.5
+ORD-2024181,2026-01-01,2026-01-05,Standard Class,Consumer,West,California,Los Angeles,Office Supplies,Paper,77.12,7,0.0,21.33
+ORD-2024182,2024-11-23,2024-11-25,Second Class,Consumer,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,21.24,4,0.15,2.82
+ORD-2024183,2025-11-15,2025-11-17,Standard Class,Consumer,South,North Carolina,Charlotte,Office Supplies,Fasteners,86.48,8,0.4,0.52
+ORD-2024184,2025-09-29,2025-10-01,Standard Class,Consumer,Central,Illinois,Chicago,Office Supplies,Storage,304.49,4,0.3,2.07
+ORD-2024185,2025-05-10,2025-05-13,Standard Class,Consumer,South,Florida,Miami,Technology,Copiers,3711.98,2,0.4,-84.66
+ORD-2024186,2026-01-07,2026-01-12,Same Day,Consumer,Central,Ohio,Columbus,Office Supplies,Fasteners,44.0,6,0.0,6.8
+ORD-2024187,2024-06-01,2024-06-07,First Class,Consumer,West,California,Los Angeles,Technology,Copiers,6399.03,7,0.0,1374.06
+ORD-2024188,2025-11-21,2025-11-23,Standard Class,Consumer,West,Oregon,Portland,Technology,Accessories,131.41,3,0.1,13.53
+ORD-2024189,2026-05-15,2026-05-21,Second Class,Consumer,West,Nevada,Las Vegas,Technology,Copiers,6344.59,7,0.4,-1211.76
+ORD-2024190,2024-11-22,2024-11-29,Standard Class,Corporate,South,Florida,Miami,Furniture,Furnishings,346.83,5,0.3,-3.31
+ORD-2024191,2024-03-20,2024-03-23,Same Day,Corporate,East,New York,New York City,Office Supplies,Paper,54.71,7,0.4,1.43
+ORD-2024192,2024-05-27,2024-05-31,Standard Class,Consumer,Central,Illinois,Chicago,Technology,Phones,1354.2,3,0.0,325.84
+ORD-2024193,2025-11-07,2025-11-10,Standard Class,Consumer,East,Pennsylvania,Philadelphia,Office Supplies,Storage,175.62,2,0.4,1.63
+ORD-2024194,2024-04-16,2024-04-19,Standard Class,Consumer,West,California,Los Angeles,Technology,Machines,2580.43,4,0.1,299.13
+ORD-2024195,2026-01-29,2026-02-04,Standard Class,Consumer,Central,Illinois,Chicago,Furniture,Furnishings,399.29,6,0.4,-98.84
+ORD-2024196,2026-02-08,2026-02-15,Standard Class,Corporate,Central,Illinois,Chicago,Office Supplies,Art,48.13,7,0.0,17.65
+ORD-2024197,2025-12-01,2025-12-03,Standard Class,Consumer,South,Florida,Miami,Technology,Machines,2922.03,2,0.3,-195.39
+ORD-2024198,2024-10-03,2024-10-08,Second Class,Corporate,Central,Michigan,Detroit,Office Supplies,Fasteners,32.33,4,0.5,2.65
+ORD-2024199,2026-03-30,2026-04-02,Standard Class,Home Office,Central,Ohio,Columbus,Technology,Phones,462.68,1,0.2,18.64
+ORD-2024200,2024-11-14,2024-11-19,Standard Class,Corporate,Central,Illinois,Chicago,Technology,Phones,221.44,1,0.2,11.64
+ORD-2024201,2026-02-24,2026-03-01,First Class,Corporate,South,Georgia,Atlanta,Office Supplies,Fasteners,28.55,2,0.1,8.54
+ORD-2024202,2026-04-30,2026-05-02,Standard Class,Home Office,West,California,Los Angeles,Technology,Accessories,404.86,6,0.15,45.03
+ORD-2024203,2024-02-19,2024-02-26,First Class,Corporate,West,Washington,Seattle,Furniture,Furnishings,462.34,5,0.0,32.11
+ORD-2024204,2024-09-24,2024-09-27,Second Class,Corporate,Central,Michigan,Detroit,Technology,Copiers,2803.65,3,0.1,-0.66
+ORD-2024205,2024-01-25,2024-01-29,First Class,Home Office,Central,Ohio,Columbus,Office Supplies,Art,15.27,1,0.2,3.7
+ORD-2024206,2024-02-22,2024-02-26,Standard Class,Consumer,South,North Carolina,Charlotte,Furniture,Tables,4634.48,9,0.2,82.15
+ORD-2024207,2026-04-06,2026-04-08,Second Class,Corporate,East,New York,New York City,Furniture,Chairs,446.34,1,0.0,83.83
+ORD-2024208,2024-03-17,2024-03-23,Standard Class,Consumer,East,New Jersey,Newark,Technology,Accessories,249.29,6,0.5,-47.69
+ORD-2024209,2025-10-01,2025-10-03,Second Class,Consumer,East,Pennsylvania,Philadelphia,Office Supplies,Labels,27.97,7,0.0,8.97
+ORD-2024210,2025-08-02,2025-08-09,Second Class,Consumer,South,Florida,Miami,Technology,Phones,456.68,3,0.1,18.49
+ORD-2024211,2025-09-09,2025-09-12,Second Class,Corporate,West,Washington,Seattle,Office Supplies,Art,40.31,2,0.2,6.68
+ORD-2024212,2025-05-16,2025-05-22,Standard Class,Corporate,Central,Texas,Houston,Office Supplies,Binders,15.89,4,0.5,-1.48
+ORD-2024213,2024-07-18,2024-07-25,Standard Class,Home Office,South,Georgia,Atlanta,Technology,Machines,5469.23,5,0.15,817.98
+ORD-2024214,2026-05-10,2026-05-15,Standard Class,Consumer,Central,Michigan,Detroit,Technology,Phones,266.9,1,0.2,-12.99
+ORD-2024215,2025-03-07,2025-03-14,First Class,Consumer,South,North Carolina,Charlotte,Furniture,Tables,491.62,2,0.0,88.18
+ORD-2024216,2025-04-28,2025-05-04,Second Class,Consumer,Central,Texas,Houston,Office Supplies,Fasteners,18.94,2,0.5,-0.44
+ORD-2024217,2024-05-30,2024-06-02,Same Day,Corporate,West,Washington,Seattle,Office Supplies,Labels,105.38,9,0.15,20.36
+ORD-2024218,2025-12-24,2025-12-27,Second Class,Consumer,Central,Illinois,Chicago,Office Supplies,Labels,20.1,3,0.3,3.51
+ORD-2024219,2026-06-10,2026-06-16,Same Day,Consumer,South,Georgia,Atlanta,Furniture,Furnishings,286.19,7,0.4,-1.74
